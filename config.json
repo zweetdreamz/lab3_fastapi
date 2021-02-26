@@ -1,0 +1,7 @@
+{
+  "pause": 1000,
+  "clientTimeout": 10000,
+  "batchDelay": 500,
+  "concurrency": 10,
+  "url": "http://127.0.0.1:80/levdist_cached"
+}
